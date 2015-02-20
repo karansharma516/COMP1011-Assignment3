@@ -1,7 +1,7 @@
 /**
  *@author karan sharma
  *@description: this is the tester class which tests the Hero GiantPlanet and TerrestrialPlanet class
- *@version: 1.5
+ *@version: 1.6
  */
 
 import java.util.Scanner;
